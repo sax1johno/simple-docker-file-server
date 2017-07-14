@@ -1,0 +1,15 @@
+{
+  "name": "simple-file-server",
+  "version": "1.0.0",
+  "description": "A simple file server based on ExpressJS that will serve files in the files directory",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John O'Connor (sax1johno@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-static": "^1.2.4"
+  }
+}
